@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: pip install --no-cache-dir -r requirements.txt && python bot.py
