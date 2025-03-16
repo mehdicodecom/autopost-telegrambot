@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
-urllib3==1.26.16
-googletrans==4.0.0-rc1
+python-telegram-bot
+urllib3
+googletrans
 requests
